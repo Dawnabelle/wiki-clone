@@ -6,6 +6,14 @@
   float: right;
 }
 
+.clear {
+  clear: both;
+}
+
+.text-right {
+  text-align: right;
+}
+
 .row1 .left {
   text-align: center;
 }
