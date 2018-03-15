@@ -1,0 +1,15 @@
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.row1 .left {
+  text-align: center;
+}
+
+.well {
+  min-height: 150px;
+}
